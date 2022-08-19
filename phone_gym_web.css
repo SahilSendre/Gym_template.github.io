@@ -1,0 +1,41 @@
+.navbar{
+ flex-direction: column;
+   align-items: center;
+}
+.navbar img{
+    align-items: center;
+}
+.second_section{
+    flex-direction: column;
+    
+    height: 60rem;
+    
+}
+#scnd_div_1{
+    width: 100%;
+}
+.forth_section{
+    flex-direction: column;
+    height: 50rem;
+    align-items: center;
+}
+#scnd_img{
+    height: 100%;
+    width: 100%;
+}
+.forth_section{
+    flex: wrap
+    ;
+}
+#scnd_div_2{
+    width: 100%;
+} 
+h1{
+    font-size: 2rem;
+}
+.third_section{
+    height: 60%;
+}
+#p1{
+    text-align: center;
+}
